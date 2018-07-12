@@ -23,19 +23,6 @@ Snake will slough after a certain time period and its skin will be remaining in 
 + Snake - has a increasing speed as game steps increasing(The speed has limit). Its length increases if eats a fruit. Game changes to end state if snake hits  walls or its own body or molted skin. Changes direction as input indicates. 
 + Score box - increases as steps increases. It shows the highest score from last player and current changing score. adds a bonus score if a fruit has been eaten. 
 
-## Design Documentation 
-+ [Design Summary](designsummary)
-+ [UML Diagram](umldiagram)
-+ [Testing Summary](testingsummary)
-
-## Minuted Meetings
-+ [Meeting 1 - 1/4/2018 - decide team structure and game](meeting1)
-+ [Meeting 2 - 5/4/2018 - divide up tasks](meeting2)
-+ [Meeting 3 - 15/4/2018 - consider and plan extension aspects](meeting3)
-+ [Meeting 4 - 30/4/2018 - review and practice demo](meeting4)
-+ [Meeting 5 - 13/5/2018 - Conclusion of all the features of RetroGame](meeting5)
-+ [Meeting 6 - 16/5/2018 - refract the code](meeting6)
-
 ## Reflection
 The build of the structure is the most hard part we accomplished in this assignment. It is significant to have a very thoughtful and logical structure at the beginning or even before starting to build a project like the Snake we have. A good project should always start with a very detailed UML so that we know which part to implement individually and it will also be easier for us to test which part of the program has flaws or bug. On the other hand, the use of decorator and observer is quite important since that we will be able to design the game in a simpler approach, in other words, the bigger your project is the more necessary you would need decorator and observer. 
 
