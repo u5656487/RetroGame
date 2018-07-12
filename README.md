@@ -52,9 +52,3 @@ _add references from where you obtained the idea form the game and ideas about a
 1. the template of the *Adapter* in this assignment is from: https://developer.android.com/reference/android/support/v4/view/PagerAdapter
 2. the template of the *slide screen* in this assignment is from: https://www.sitepoint.com/using-viewpager-to-create-a-sliding-screen-ui-in-android/
 
-### Assets 
-
-_this includes images, sounds, etc._
-![Screenshot_1526622795](/uploads/d009308cff1499daa71a8ce4811b4022/Screenshot_1526622795.png)
-
-![Screenshot_1526622763](/uploads/04c2690f24c496e824d0fc8a1c6fc1ec/Screenshot_1526622763.png)![Screenshot_1526622754]![Screenshot_1526622715](/uploads/af59137872c38855472c0756201d593d/Screenshot_1526622715.png)
